@@ -13,6 +13,7 @@ Actions: these are all available actions for block with their names in game, so 
 =======================================================================================================================================
 
 Antenna
+----------------------
 
 Interface name: IMyRadioAntenna
 Parent: IMyFunctionalBlock
@@ -27,6 +28,7 @@ DecreaseRadius -> Decrease Broadcast radius
 =======================================================================================================================================
 
 Arc Furnace
+----------------------
 
 Interface name: IMyRefinery
 Parent: IMyProductionBlock
@@ -41,6 +43,7 @@ UseConveyor -> Use Conveyor System On/Off
 =======================================================================================================================================
 
 Artificial Mass
+----------------------
 
 Interface name: IMyVirtualMass
 Parent: IMyFunctionalBlock
@@ -53,6 +56,7 @@ OnOff_Off -> Toggle block Off
 =======================================================================================================================================
 
 Assembler
+----------------------
 
 Interface name: IMyAssembler
 Parent: IMyProductionBlock
@@ -67,6 +71,7 @@ UseConveyor -> Use Conveyor System On/Off
 =======================================================================================================================================
 
 Battery
+----------------------
 
 Interface name: IMyBatteryBlock
 Parent: IMyFunctionalBlock
@@ -80,6 +85,7 @@ Recharge -> Recharge On/Off
 =======================================================================================================================================
 
 Beacon
+----------------------
 
 Interface name: IMyBeacon
 Parent: IMyFunctionalBlock
