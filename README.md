@@ -24,7 +24,7 @@ OnOff_Off -> Toggle block Off
 IncreaseRadius -> Increase Broadcast radius
 DecreaseRadius -> Decrease Broadcast radius
 
-----------------------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================================
 
 Arc Furnace
 Interface name: IMyRefinery
@@ -36,7 +36,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Artificial Mass
 Interface name: IMyVirtualMass
@@ -46,7 +47,8 @@ Fields: None
 Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Assembler
 Interface name: IMyAssembler
@@ -58,7 +60,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Battery
 Interface name: IMyBatteryBlock
@@ -69,7 +72,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 Recharge -> Recharge On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Beacon
 Interface name: IMyBeacon
@@ -81,14 +85,16 @@ OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 IncreaseRadius -> Increase Broadcast radius
 DecreaseRadius -> Decrease Broadcast radius
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Button Panel
 Interface name: IMyButtonPanel
 Fields: bool AnyoneCanUse
 
 Actions AnyoneCanUse -> Anyone Can Use On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Camera
 Interface name: IMyCameraBlock
@@ -99,7 +105,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 View -> View
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Cockpit
 Interface name: IMyCockpit
@@ -114,7 +121,8 @@ Actions ControlThrusters -> Control thrusters On/Off
 ControlWheels -> Control wheels On/Off
 HandBrake -> Handbrake On/Off
 DampenersOverride -> Inertia dampeners On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Collector
 Interface name: IMyCollector
@@ -125,7 +133,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Connector
 Interface name: IMyShipConnector
@@ -141,13 +150,15 @@ OnOff_Off -> Toggle block Off
 ThrowOut -> Throw Out On/Off
 CollectAll -> Collect All On/Off
 SwitchLock -> Switch lock
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Control Panel
 Interface name: IMyControlPanel
 Fields: None
 Actions: None
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Control Station
 Interface name: IMyCockpit
@@ -162,7 +173,8 @@ Actions ControlThrusters -> Control thrusters On/Off
 ControlWheels -> Control wheels On/Off
 HandBrake -> Handbrake On/Off
 DampenersOverride -> Inertia dampeners On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Door
 Interface name: IMyDoor
@@ -175,7 +187,8 @@ OnOff_Off -> Toggle block Off
 Open -> Open/Closed
 Open_On -> Open
 Open_Off -> Closed
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Drill
 Interface name: IMyShipDrill
@@ -186,7 +199,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Flight Seat
 Interface name: IMyCockpit
@@ -201,7 +215,8 @@ Actions ControlThrusters -> Control thrusters On/Off
 ControlWheels -> Control wheels On/Off
 HandBrake -> Handbrake On/Off
 DampenersOverride -> Inertia dampeners On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Gatling Turret
 Interface name: IMyLargeGatlingTurret
@@ -220,7 +235,8 @@ Control -> Control
 IncreaseRange -> Increase Radius
 DecreaseRange -> Decrease Radius
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Gravity Generator
 Interface name: IMyGravityGenerator
@@ -243,7 +259,8 @@ IncreaseDepth -> Increase Field depth
 DecreaseDepth -> Decrease Field depth
 IncreaseGravity -> Increase Acceleration
 DecreaseGravity -> Decrease Acceleration
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Grinder
 Interface name: IMyShipGrinder
@@ -255,7 +272,8 @@ Actions OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Gyroscope
 Interface name: IMyGyro
@@ -280,7 +298,8 @@ IncreasePitch -> Increase Pitch override
 DecreasePitch -> Decrease Pitch override
 IncreaseRoll -> Increase Roll override
 DecreaseRoll -> Decrease Roll override
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Interior Light
 Interface name: IMyInteriorLight
@@ -305,7 +324,8 @@ IncreaseBlink Lenght -> Increase Blink Length
 DecreaseBlink Lenght -> Decrease Blink Length
 IncreaseBlink Offset -> Increase Blink Offset
 DecreaseBlink Offset -> Decrease Blink Offset
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Interior Turret
 Interface name: IMyLargeInteriorTurret
@@ -322,7 +342,8 @@ OnOff_Off -> Toggle block Off
 Control -> Control
 IncreaseRange -> Increase Radius
 DecreaseRange -> Decrease Radius
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Landing Gear
 Interface name: IMyLandingGear
@@ -340,25 +361,29 @@ SwitchLock -> Switch lock
 Autolock -> Autolock On/Off
 IncreaseBreakForce -> Increase Break Force
 DecreaseBreakForce -> Decrease Break Force
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Small Cargo Container
 Interface name: IMyCargoContainer
 Fields: None
 Actions: None
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Medium Cargo Container
 Interface name: IMyCargoContainer
 Fields: None
 Actions:None
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Large Cargo Container
 Interface name: IMyCargoContainer
 Fields: None
 Actions: None
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Small Reactor
 Interface name: IMyReactor
@@ -371,7 +396,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Large Reactor
 Interface name: IMyReactor
@@ -383,7 +409,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Small Thruster
 Interface name: IMyThrust
@@ -396,7 +423,8 @@ OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 IncreaseOverride -> Increase Thrust override
 DecreaseOverride -> Decrease Thrust override
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Large Thruster
 Interface name: IMyThrust
@@ -409,7 +437,8 @@ OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 IncreaseOverride -> Increase Thrust override
 DecreaseOverride -> Decrease Thrust override
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Medical Room
 Interface name: IMyMedicalRoom
@@ -420,7 +449,8 @@ Actions
 OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Merge Block
 Interface name: IMyShipMergeBlock
@@ -431,7 +461,8 @@ Actions
 OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Missile Turret
 Interface name: IMyLargeMissileTurret
@@ -451,7 +482,8 @@ Control -> Control
 IncreaseRange -> Increase Radius
 DecreaseRange -> Decrease Radius
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Ore Detector
 Interface name: IMyOreDetector
@@ -464,7 +496,8 @@ Actions
 OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Passenger Seat
 Interface name: IMyCockpit
@@ -480,7 +513,8 @@ ControlThrusters -> Control thrusters On/Off
 ControlWheels -> Control wheels On/Off
 HandBrake -> Handbrake On/Off
 DampenersOverride -> Inertia dampeners On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Piston
 Interface name: IMyPistonBase
@@ -502,7 +536,8 @@ IncreaseUpperLimit -> Increase Maximal distance
 DecreaseUpperLimit -> Decrease Maximal distance
 IncreaseLowerLimit -> Increase Minimal distance
 DecreaseLowerLimit -> Decrease Minimal distance
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Programmable Block
 Interface name: IMyProgrammableBlock
@@ -514,7 +549,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 Run -> Run
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Refinery
 Interface name: IMyRefinery
@@ -527,7 +563,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Spotlight
 Interface name: IMyReflectorLight
@@ -552,7 +589,8 @@ IncreaseBlink Lenght -> Increase Blink Length
 DecreaseBlink Lenght -> Decrease Blink Length
 IncreaseBlink Offset -> Increase Blink Offset
 DecreaseBlink Offset -> Decrease Blink Offset
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Remote Control
 Interface name: IMyRemoteControl
@@ -569,7 +607,8 @@ ControlWheels -> Control wheels On/Off
 HandBrake -> Handbrake On/Off
 DampenersOverride -> Inertia dampeners On/Off
 Control -> Control
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Rocket Launcher
 Interface name: IMySmallMissileLauncher
@@ -581,7 +620,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Reloadable Rocket Launcher
 Interface name: IMySmallMissileLauncherReload
@@ -593,7 +633,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Rotor
 Interface name: IMyMotorStator
@@ -628,7 +669,8 @@ IncreaseUpperLimit -> Increase Upper limit
 DecreaseUpperLimit -> Decrease Upper limit
 IncreaseDisplacement -> Increase Rotor displacement
 DecreaseDisplacement -> Decrease Rotor displacement
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Sensor
 Interface name: IMySensorBlock
@@ -669,13 +711,15 @@ Detect Small Ships -> Detect small ships On/Off
 Detect Large Ships -> Detect large ships On/Off
 Detect Stations -> Detect stations On/Off
 Detect Asteroids -> Detect Asteroids On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Solar Panel
 Interface name: IMySolarPanel
 Fields:None
 Actions:None
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Sound Block
 Interface name: IMySoundBlock
@@ -698,7 +742,8 @@ PlaySound -> Play
 StopSound -> Stop
 IncreaseLoopableSlider -> Increase Loop time
 DecreaseLoopableSlider -> Decrease Loop time
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Spherical Gravity Generator
 Interface name: IMyGravityGeneratorSphere
@@ -716,7 +761,8 @@ IncreaseRadius -> Increase Radius
 DecreaseRadius -> Decrease Radius
 IncreaseGravity -> Increase Acceleration
 DecreaseGravity -> Decrease Acceleration
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Timer Block
 Interface name: IMyTimerBlock
@@ -734,7 +780,8 @@ DecreaseTriggerDelay -> Decrease Delay
 TriggerNow -> Trigger now
 Start -> Start
 Stop -> Stop
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Warhead
 Interface name: IMyWarhead
@@ -749,7 +796,8 @@ StartCountdown -> Start countdown
 StopCountdown -> Stop countdown
 Safety -> Safety On/Off
 Detonate -> Detonate
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Welder
 Interface name: IMyShipWelder
@@ -761,7 +809,8 @@ OnOff -> Toggle block On/Off
 OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 UseConveyor -> Use Conveyor System On/Off
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Wheel Suspension 1x1
 Interface name: IMyMotorSuspension
@@ -789,7 +838,8 @@ IncreaseFriction -> Increase Friction
 DecreaseFriction -> Decrease Friction
 IncreasePower -> Increase Power
 DecreasePower -> Decrease Power
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Wheel Suspension 3x3
 Interface name: IMyMotorSuspension
@@ -817,7 +867,8 @@ IncreaseFriction -> Increase Friction
 DecreaseFriction -> Decrease Friction
 IncreasePower -> Increase Power
 DecreasePower -> Decrease Power
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
 
 Wheel Suspension 5x5
 Interface name: IMyMotorSuspension
@@ -845,4 +896,5 @@ IncreaseFriction -> Increase Friction
 DecreaseFriction -> Decrease Friction
 IncreasePower -> Increase Power
 DecreasePower -> Decrease Power
-----------------------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================================================
