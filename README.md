@@ -9,6 +9,7 @@ Parent: this is parent of the block (all blocks have IMyTerminalBlock as parent)
 Field: this is read only field available for block e.g. for IMyBeacon you can get Radius property. Based on this property you can increase/decrease radius of beacon.
 
 Actions: these are all available actions for block with their names in game, so if you want to increase broadcast radius for antenna, you need to execute DecreaseRadius action for block.
+
 ========================================================================================================================================
 
 Antenna
@@ -22,6 +23,7 @@ OnOff_On -> Toggle block On
 OnOff_Off -> Toggle block Off
 IncreaseRadius -> Increase Broadcast radius
 DecreaseRadius -> Decrease Broadcast radius
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Arc Furnace
