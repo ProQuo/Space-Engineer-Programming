@@ -1,6 +1,8 @@
 # Space-Engineer-Programming
 small snippets of code for use in the online sandbox game, Space Engineers
 
+The following information was found at: http://www.spaceengineerswiki.com/Programming
+
 =======================================================================================================================================
 All terminal blocks have the following properties: Interface name: this name is the name of the block in code, it can differ from the name as displayed in the building screen. E.g. Antenna interface name is IMyRadioAntenna - you need to use this interface if you want to get all antennas.
 
